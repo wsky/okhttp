@@ -55,7 +55,7 @@ public enum Protocol {
    * 3.1</a>. Future releases of OkHttp may use this identifier for a newer draft
    * of the SPDY spec.
    */
-  SPDY_3("spdy/3.1"),
+  SPDY_3("spdy/3"),
 
   /**
    * The IETF's binary-framed protocol that includes header compression,
